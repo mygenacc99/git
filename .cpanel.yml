@@ -1,0 +1,4 @@
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/locvbsit/node
+    - /bin/cp README.md $DEPLOYPATH
